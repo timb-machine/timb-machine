@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on #risk, #unix, #cisco, #security and #dataanalytics
+- 🔭 I’m currently working on #threatmodellng, #threatintel, #hardening, #sast, #dast, #detectionengineering, #dataanalytics, #devops
 - 👯 I’m looking to collaborate on ATT&CK
 - 💬 Ask me about security research, technical or otherwise
 - 📝 I write articles for [Cisco](https://blogs.cisco.com/author/timwadhwabrown), share F/OSS code at [CiscoCXSecurity](https://github.com/CiscCXSecurity) and speak at [conferences](https://scholar.google.co.uk/citations?user=vx_iiGYAAAAJ) on my research
